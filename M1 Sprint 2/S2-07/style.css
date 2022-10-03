@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+.Subtittle{
+    font-size: 12px;
+}
+
+spam{
+    color: blue;
+}
+
+a{
+    color:blue ;
+}
+.box{
+    background-color: blue;
+    color: aliceblue;
+}
+li{
+    text-decoration-line: underline;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    background-size: 50px;
+    color: aliceblue;
+    height: max-content;
+}
