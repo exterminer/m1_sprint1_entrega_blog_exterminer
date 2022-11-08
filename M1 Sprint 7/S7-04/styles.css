@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black ;
+    
+}
+.lista-nav{
+    list-style: none;
+    display: flex;
+    gap: 40px ;
+
+}
+
+.list-notebook{
+    display: flex;
+    overflow-x: scroll;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    width: 250px;
+    height: 250px;
+    padding-top: 50px;
+    margin: 30px 30px ;
+    border: 2px solid rgb(82, 81, 81);
+
+}
